@@ -15,3 +15,13 @@ git clone https://github.com/fcarrascozzo/Logica-de-Programacao
 ```
  Ctrl + Alt + N
 ```
+
+# Características do JavaScript
+
+* Tipagem dinâmica
+
+* Multiparadigma
+    - você consegue resolver o mesmo problema de várias formas diferentes
+
+* Linguagem interpretada
+
