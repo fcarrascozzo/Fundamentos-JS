@@ -22,19 +22,31 @@ JavaScript é uma linguagem de programação interpretada, dinâmica, orientada 
 
 ## Características
 
-Algumas das principais características do JavaScript incluem:
+### Algumas das principais características do JavaScript incluem:
 
-**Interpretada:** o código JavaScript é executado diretamente no navegador ou em um ambiente de tempo de execução JavaScript, sem a necessidade de compilar o código antes da execução.
+**Interpretada:** 
 
-**Dinâmica:** o JavaScript é uma linguagem dinâmica, o que significa que as variáveis não precisam ser declaradas com um tipo de dado específico. O tipo de dado da variável é determinado durante a execução do código.
+>O código JavaScript é executado diretamente no navegador ou em um ambiente de tempo de execução JavaScript, sem a necessidade de compilar o código antes da execução.
 
-**Orientada a objetos:** o JavaScript é uma linguagem orientada a objetos, o que significa que as funcionalidades são implementadas como objetos, que podem ser instanciados e manipulados.
+**Dinâmica:** 
 
-**Event-driven:** o JavaScript é uma linguagem orientada a eventos, o que significa que a execução do código é acionada por eventos, como cliques do mouse ou teclas pressionadas pelo usuário.
+>O JavaScript é uma linguagem dinâmica, o que significa que as variáveis não precisam ser declaradas com um tipo de dado específico. O tipo de dado da variável é determinado durante a execução do código.
 
-**Multiplataforma:** o JavaScript é suportado em vários ambientes, incluindo navegadores web, servidores, dispositivos móveis e desktops.
+**Orientada a objetos:** 
 
-**Ampla utilização:** o JavaScript é amplamente utilizado em todo o mundo para desenvolvimento web, criação de aplicativos e outras aplicações.
+>O JavaScript é uma linguagem orientada a objetos, o que significa que as funcionalidades são implementadas como objetos, que podem ser instanciados e manipulados.
+
+**Event-driven:** 
+
+>O JavaScript é uma linguagem orientada a eventos, o que significa que a execução do código é acionada por eventos, como cliques do mouse ou teclas pressionadas pelo usuário.
+
+**Multiplataforma:** 
+
+>O JavaScript é suportado em vários ambientes, incluindo navegadores web, servidores, dispositivos móveis e desktops.
+
+**Ampla utilização:** 
+
+>O JavaScript é amplamente utilizado em todo o mundo para desenvolvimento web, criação de aplicativos e outras aplicações.
 
 # Exemplos
 
