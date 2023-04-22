@@ -2,20 +2,6 @@
 
 > Status: Em andamento
 
-Para rodar esses arquivos na sua máquina, por favor digite:
-
-```
-git clone https://github.com/fcarrascozzo/Logica-de-Programacao
-```
-
-# Executando arquivos no VS Code
-
->Para executar os códigos mais simples, dentro do seu VS CODE já com o node.js instalado, entre no arquivo desejado e com a extenção "code Runner" e precione
-
-```
- Ctrl + Alt + N
-```
-
 # JavaScript
 
 JavaScript é uma linguagem de programação interpretada, dinâmica, orientada a objetos e de alto nível, amplamente utilizada para desenvolvimento web, criação de aplicativos e outras aplicações.
@@ -59,9 +45,9 @@ let idade = 25;
 
 // Exemplo de objeto
 const pessoa = {
-  nome: "João",
-  sobrenome: "Silva",
-  idade: 25,
+  nome: "Fernando",
+  sobrenome: "Carrascozzo",
+  idade: 24,
   cumprimentar: function() {
     console.log("Olá, meu nome é " + this.nome + " " + this.sobrenome);
   }
@@ -77,3 +63,19 @@ document.querySelector("button").addEventListener("click", function() {
 # Conclusão
 
 O JavaScript é uma linguagem de programação amplamente utilizada que oferece recursos poderosos para desenvolvimento web e outras aplicações. Com sua sintaxe simples e recursos orientados a objetos, o JavaScript é uma linguagem de programação popular e eficaz para desenvolvedores de todo o mundo.
+
+------------------------------------------------------------------------------------
+
+Para rodar esses arquivos na sua máquina, por favor digite:
+
+```
+git clone https://github.com/fcarrascozzo/Logica-de-Programacao
+```
+
+# Executando arquivos no VS Code
+
+>Para executar os códigos mais simples, dentro do seu VS CODE já com o node.js instalado, entre no arquivo desejado e com a extenção "code Runner" e precione
+
+```
+ Ctrl + Alt + N
+```
