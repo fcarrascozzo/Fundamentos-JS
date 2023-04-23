@@ -1,6 +1,6 @@
 # Arquivos do meu estudo de JavaScript
 
-> Status: Em andamento
+> Status: Finalizado
 
 # JavaScript
 
